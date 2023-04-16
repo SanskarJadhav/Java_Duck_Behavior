@@ -1,3 +1,4 @@
+// Sanskar Jadhav AIML B1 PRN 21070126076
 public class Main {
     public static void main(String[] args) {
         // object for mallard duck class
